@@ -1,0 +1,14 @@
+.info-primary {
+  background-color: darkcyan;
+}
+.info-dark {
+  background-color: darkslategray;
+}
+.info-icon {
+  font-size: 3em;
+}
+.info-container {
+  height: 7em;
+  color: white;
+  padding: 10%;
+}
